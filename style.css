@@ -1,0 +1,19 @@
+body{
+    background: url("https://media.istockphoto.com/photos/coando-caf-stretching-coffee-picture-id1255491921?b=1&k=6&m=1255491921&s=170667a&w=0&h=h6Q3_tXVA8kXsFoFs55zuzCaKDacMKhq8NqrBBW-x34=") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero{
+    color: #fff;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+}
+
+.coffee-img-thumb{
+    width: 300px;
+    height: 200px;
+}
